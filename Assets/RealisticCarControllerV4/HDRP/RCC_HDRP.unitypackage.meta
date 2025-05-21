@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd5a490c325630b4bb994eddf3f3cec4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16296
+  packageName: Realistic Car Controller
+  packageVersion: 4.4.0
+  assetPath: Assets/RealisticCarControllerV4/HDRP/RCC_HDRP.unitypackage
+  uploadId: 741467
